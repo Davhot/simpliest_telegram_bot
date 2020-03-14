@@ -1,0 +1,5 @@
+readme_hidden
+.byebug_history
+usefull_programs/
+bot_dump/*.json
+.rbenv-vars
